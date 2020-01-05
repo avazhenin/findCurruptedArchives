@@ -1,0 +1,17 @@
+<root>
+	<parameters>
+		<mailHost>192.168.101.10</mailHost>
+		<mailUser>zabbix2</mailUser>
+		<mailPassword>eKCj6wgS</mailPassword>
+		<from>zabbix2@altel.kz</from>
+		<to>vazhenin@altel.kz</to>
+		<cc>vazhenina88@gmail.com</cc>
+		<bcc></bcc>
+		<scanDir>d:\test\</scanDir>
+		<outFile>d:\test\outFile.xls</outFile>
+		<logFile>d:\test\log.txt</logFile>
+		<timeShift>50</timeShift>
+		<searchFolderMask>2015</searchFolderMask>
+		<database>d:\test\database.txt</database>
+	</parameters>
+</root>
